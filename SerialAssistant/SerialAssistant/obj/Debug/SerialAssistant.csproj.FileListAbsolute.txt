@@ -1,0 +1,10 @@
+E:\code\C#\串口(涡流项目)\串口助手sxc\SerialAssistant\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+E:\code\C#\串口(涡流项目)\串口助手sxc\SerialAssistant\SerialAssistant\bin\Debug\SerialAssistant.exe
+E:\code\C#\串口(涡流项目)\串口助手sxc\SerialAssistant\SerialAssistant\bin\Debug\SerialAssistant.pdb
+E:\code\C#\串口(涡流项目)\串口助手sxc\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.csproj.AssemblyReference.cache
+E:\code\C#\串口(涡流项目)\串口助手sxc\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+E:\code\C#\串口(涡流项目)\串口助手sxc\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+E:\code\C#\串口(涡流项目)\串口助手sxc\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+E:\code\C#\串口(涡流项目)\串口助手sxc\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+E:\code\C#\串口(涡流项目)\串口助手sxc\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.exe
+E:\code\C#\串口(涡流项目)\串口助手sxc\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.pdb
