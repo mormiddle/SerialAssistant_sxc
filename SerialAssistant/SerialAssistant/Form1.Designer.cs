@@ -52,6 +52,7 @@ namespace SerialAssistant
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.button2 = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -139,6 +140,7 @@ namespace SerialAssistant
             // 
             // panel3
             // 
+            this.panel3.Controls.Add(this.label7);
             this.panel3.Controls.Add(this.label6);
             this.panel3.Location = new System.Drawing.Point(12, 510);
             this.panel3.Name = "panel3";
@@ -280,6 +282,7 @@ namespace SerialAssistant
             this.button2.TabIndex = 3;
             this.button2.Text = "清空接收";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // label6
             // 
@@ -290,6 +293,16 @@ namespace SerialAssistant
             this.label6.Size = new System.Drawing.Size(55, 21);
             this.label6.TabIndex = 0;
             this.label6.Text = "label6";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label7.Location = new System.Drawing.Point(403, 4);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(55, 21);
+            this.label7.TabIndex = 1;
+            this.label7.Text = "label7";
             // 
             // Form1
             // 
@@ -339,6 +352,7 @@ namespace SerialAssistant
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
     }
 }
 
